@@ -60,7 +60,7 @@ document.querySelector(".btn-hold").addEventListener("click", function() {
 
 //Check if the player is Winner
 function checkWinner(amount) {
-  if (amount >= 20) {
+  if (amount >= 100) {
     setPropertiesForWinner();
   } else {
     nextPlayer();
