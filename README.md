@@ -1,4 +1,4 @@
-##Pig game
+#Pig game
 This is a small and simple game. This is a task from JavaScript course where I used HTML5/CSS3 and JavaScript.
 
 ####GAME RULES:
