@@ -1,7 +1,7 @@
-#Pig game
+<h1>Pig game</h1>
 This is a small and simple game. This is a task from JavaScript course where I used HTML5/CSS3 and JavaScript.
 
-####GAME RULES:
+<h4>GAME RULES:</h4>
 
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
